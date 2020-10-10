@@ -428,7 +428,7 @@ kylie="12281817"
 jelopez="305701719"
 messi="427553890"
 
-dualipa="12331195"
+dualipa="tc3v3o368k67"
 mileycyrus="325734299"
 shawnmendes="212742998"
 katyperry="407964088"
